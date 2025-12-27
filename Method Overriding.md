@@ -29,17 +29,7 @@ fish.type()
 shark.type()
 ```
 ## OUTPUT
-class Fish:
-    def type(self):
-        print("fish")
+<img width="335" height="204" alt="image" src="https://github.com/user-attachments/assets/8be26d58-fd1d-423e-8f05-3c4c280fbbcb" />
 
-class Shark(Fish):
-    def type(self):
-	    print("shark")
-
-fish = Fish()
-shark = Shark()
-fish.type()
-shark.type()
 ## RESULT
 Thus, the program to implement Method Overriding using Fish and Shark Class Inheritance in Python was executed successfully and produced the expected result.
